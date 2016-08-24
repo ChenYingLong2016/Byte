@@ -9,3 +9,6 @@ print('Hell world')
 
 
 print('NO!')
+
+
+print('Next')
