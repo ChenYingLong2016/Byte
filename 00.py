@@ -6,3 +6,6 @@ Created on 2016年8月24日
 
 
 print('Hell world')
+
+
+print('NO!')
